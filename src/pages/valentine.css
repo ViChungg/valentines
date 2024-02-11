@@ -1,0 +1,15 @@
+.alert {
+  position: absolute;
+  opacity: 90%;
+}
+
+.valentines-container {
+  background-color: #fcc7cb;
+  max-height: fit-content;
+}
+
+.card {
+  background-color: white;
+  border: 0px;
+  box-shadow: 0px 0px 5px #fc5d68;
+}
